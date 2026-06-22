@@ -1,0 +1,18 @@
+{
+  "alimentos": [
+    {
+      "nombre": "Manzana",
+      "calorias": 52,
+      "azucar": 10,
+      "apto_diabetes": true,
+      "apto_tiroides": true
+    },
+    {
+      "nombre": "Pan blanco",
+      "calorias": 265,
+      "azucar": 5,
+      "apto_diabetes": false,
+      "apto_tiroides": true
+    }
+  ]
+}
